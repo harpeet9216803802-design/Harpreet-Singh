@@ -1,0 +1,6 @@
+{
+  "name": "HCPL Industrial Gas ERP",
+  "description": "Enterprise-grade Industrial Gas ERP, E-Commerce, Billing, Delivery Logistics, and Customer Management System for Harpreet Cylinders Pvt. Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
